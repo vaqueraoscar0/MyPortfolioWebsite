@@ -13,9 +13,8 @@ Thank you for taking the time to review my portfolio project. Should you have an
     - [Screenshot](#screenshot)
     - [Links](#links)
 - [Built With](#built-with)
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Acknowledgements](#acknowledgements)
+- [Usage](#Usage)
+- [Contact](#Contact)
 
 ## Overview
 
@@ -43,21 +42,23 @@ Thank you for taking the time to review my portfolio project. Should you have an
 - React Vertical Timeline
 - React Leaflet (for displaying the map)
 
-# Usage
+## Usage
 
 To use this project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/your-project.git
+Clone the repository: git clone https://github.com/vaqueraoscar0/MyPortfolioWebsite.git
 Install the dependencies: npm install
 Start the development server: npm start
 Open the application in your browser at http://localhost:3000
 
-# Contact
+## Contact
 
 If you have any questions, feedback, or would like to collaborate, please feel free to contact me:
 
 Email: vaqueraoscar0@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/oscar-vaquera/
+
 Portfolio: https://vaqueraoscar0.github.io/MyPortfolioWebsite
 
 I am open to new opportunities and look forward to connecting with you.
