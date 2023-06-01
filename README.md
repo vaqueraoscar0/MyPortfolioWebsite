@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Portfolio Project
+Welcome to my personal portfolio project. Here, you will find comprehensive information about my skills as a programmer and detailed insights into my work. Thank you for visiting.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Feel free to explore the project and discover more about my capabilities, past projects, and professional background. The portfolio serves as a central hub to showcase my expertise and achievements in the field of programming.
 
-## Available Scripts
+Please visit the portfolio project to gain a comprehensive understanding of my skills, accomplishments, and the projects I have undertaken. It is designed to provide a clear picture of my abilities and highlights my dedication to delivering high-quality software solutions.
 
-In the project directory, you can run:
+Thank you for taking the time to review my portfolio project. Should you have any inquiries or require further information, please do not hesitate to reach out.
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+- [Built With](#built-with)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Acknowledgements](#acknowledgements)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Overview
 
-### `npm test`
+### Screenshot
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![IP Address Tracker preview](./Design/Portfolio5.png)
+![IP Address Tracker preview](./Design/Portfolio.png)
+![IP Address Tracker preview](./Design/Portfolio2.png)
+![IP Address Tracker preview](./Design/Portfolio3.png)
+![IP Address Tracker preview](./Design/Portfolio4.png)
 
-### `npm run build`
+### Links
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Click here to see the (Live Demo)](https://vaqueraoscar0.github.io/MyPortfolioWebsite)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Built With
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React
+- Axios
+- TagCloud
+- Nodemailer
+- React Icons
+- React Bootstrap
+- React Multi Carousel
+- React Vertical Timeline
+- React Leaflet (for displaying the map)
 
-### `npm run eject`
+# Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To use this project locally, follow these steps:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone the repository: git clone https://github.com/your-username/your-project.git
+Install the dependencies: npm install
+Start the development server: npm start
+Open the application in your browser at http://localhost:3000
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Contact
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+If you have any questions, feedback, or would like to collaborate, please feel free to contact me:
 
-## Learn More
+Email: vaqueraoscar0@gmail.com
+LinkedIn: https://www.linkedin.com/in/oscar-vaquera/
+Portfolio: https://vaqueraoscar0.github.io/MyPortfolioWebsite
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I am open to new opportunities and look forward to connecting with you.
