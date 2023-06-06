@@ -79,6 +79,12 @@ const projects = [
         imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/RoboFriend/main/src/RoboFriend%20Large.jpeg",
         link: 'https://vaqueraoscar0.github.io/RoboFriend/'
     },
+    {
+        title: "Interactive Card Detail Form",
+        description: "Frontend Mentor Challenge",
+        imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/FrontendMentorio-Interactive-Card-Detail-Form/Main/src/design/active-states.jpg",
+        link: 'https://vaqueraoscar0.github.io/FrontendMentorio-Interactive-Card-Detail-Form/'
+    },
 
 ];
 
@@ -92,9 +98,16 @@ const projects2 = [
 
     {
         title: "Ecommerce Website",
-        description: "Final School Project (no link)",
+        description: "Django and React Redux",
         imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/EcommerceWebsite/Main/static/images/Ecommerce.png",
         link: 'https://github.com/vaqueraoscar0/EcommerceWebsite/tree/Main'
+    },
+
+    {
+        title: "News Letter Form",
+        description: "Frontend Mentor Challenge (React, Google Script/Google Sheets)",
+        imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/FrontendMentorIO-NewsletterForm/Main/src/design/active-states.jpg",
+        link: 'https://vaqueraoscar0.github.io/FrontendMentorIO-NewsletterForm/'
     },
 
 ];

@@ -586,6 +586,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   overflow: hidden;
   margin-bottom: 24px;
   background-color: white;
+  cursor: pointer;
 }
 
 .proj-imgbx::before {
@@ -619,7 +620,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .proj-txtx h4 {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 700;
   letter-spacing: 0.8px;
   line-height: 1.1em;
@@ -628,7 +629,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .proj-txtx span {
   font-style: italic;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 14px;
   letter-spacing: 0.8px;
 }
 
@@ -993,10 +994,35 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     justify-content: center;
     width: 100%;
   }
+
+  .proj-txtx h4 {
+    font-size: 20px;
+  }
+
+  .proj-txtx span {
+    font-size: 12px;
+  }
+}
+
+
+@media screen and (max-width: 980px) {
+  .proj-txtx h4 {
+    font-size: 18px;
+  }
+
+  .proj-txtx span {
+    font-size: 10px;
+  }
+
 }
 
 
 @media (max-width: 766px){
+  .banner{
+    margin-top: 0;
+    padding-top: 190px;
+  }
+
   .contact .col-xl-6.col-md-5.col-10{
     padding-top: 100px;
   }
@@ -1046,11 +1072,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 
 @media (max-width: 412px){
-  .banner{
-    margin-top: 0;
-    padding-top: 190px;
-  }
-
   .banner h1{
     font-size: 35px;
   }
