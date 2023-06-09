@@ -11,6 +11,12 @@ const ProfileDescription = 'Hello, my name is Oscar Vaquera and I recently gradu
 
 const projects = [
     {
+        title: "Space Tourism",
+        description: "Frontend Mentor Challenge (React Framer Motion)",
+        imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/FrontendMentorio-Space-Tourism/Main/src/Design/img2.png",
+        link: 'https://vaqueraoscar0.github.io/FrontendMentorio-Space-Tourism/#/destination'
+    },
+    {
         title: "WolleyLand Landing Page",
         description: "Design & Development (React)",
         imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/WolleyPortfolio/Main/src/img/WolleyLand.png",
