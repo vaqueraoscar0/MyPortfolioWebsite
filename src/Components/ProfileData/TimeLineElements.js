@@ -1,18 +1,52 @@
 let timelineElements = [
     {
-        id: 1,
+        id: 12,
+        title: "SpeakAIPro",
+        location: "Home",
+        description:
+            "The Speakaipro Web Application is a comprehensive project that seamlessly combines Vite, React, TypeScript, " +
+            "and Django to create a versatile platform aimed at enhancing communication skills through AI interaction. This " +
+            "project leverages OpenAI's advanced logic alongside Elevenlabs for voice audio generation, resulting in a highly " +
+            "adaptable and user-centric experience. On the frontend, Speakaipro employs the power of Vite, React, and TypeScript " +
+            "to provide a dynamic and responsive interface. TailwindCSS takes charge of styling, ensuring an aesthetically pleasing " +
+            "design. Behind the scenes, Django forms the robust backend foundation, handling essential functionalities seamlessly. " +
+            "Speakaipro's mission is to empower users with tailored AI interactions, making it perfect for scenarios like job interviews " +
+            "or language practice. Through cutting-edge technology, this web app allows individuals to hone their speaking abilities " +
+            "with ease and precision.",
+        date: "july 2023 - Current",
+        buttonText: 'Projects',
+        link: 'https://speakaipro.dev/',
+        icon: "school",
+    },
+    {
+        id: 11,
+        title: "Location Based Real Estate Listing",
+        location: "Home",
+        description:
+            "The Location-Based Real Estate Website project is a full stack web application that combines Django and React Js to create a platform for showcasing real estate listings. The website utilizes Material UI, a React library for building UI components, to design and style the frontend. Leaflet, a JavaScript library for interactive maps, is integrated with React using React-Leaflet to add a geographic aspect to the project.\n" +
+            "\n" +
+            "The PostgreSQL database used in this project is made spatially aware by adding the PostGIS extension. This allows for both regular and spatial queries, including geometric information such as distance calculations.\n" +
+            "\n" +
+            "User authentication is implemented using the Djoser library, enabling users to add, delete, or update property listings from the frontend. Error handling for both client-side and server-side errors in forms is also covered.",
+        date: "jun 2023 - july 2023",
+        buttonText: 'Projects',
+        link: 'https://vaqueraoscar0.github.io/Real-Estate-Website/',
+        icon: "school",
+    },
+    {
+        id: 10,
         title: "Frontend Mentor Challenges",
         location: "Home",
         description:
             "Completed Various Frontend Mentor Challenges (Project Showcasing down below)",
-        date: "February 2021 - December - 2021",
+        date: "May 2023 - NOW",
         buttonText: 'Projects',
         link: '/#projects',
         icon: "school",
     },
 
     {
-        id: 2,
+        id: 9,
         title: "Pro Store",
         location: "Home",
         description:
@@ -24,7 +58,7 @@ let timelineElements = [
     },
 
     {
-        id: 3,
+        id: 8,
         title: "Player One",
         location: "Remote",
         description:
@@ -37,7 +71,7 @@ let timelineElements = [
 
 
     {
-        id: 4,
+        id: 7,
         title: "SMS For Academics",
         location: "Sacramento, California",
         description:
@@ -46,7 +80,7 @@ let timelineElements = [
         icon: "school",
     },
     {
-        id: 5,
+        id: 6,
         title: "SMS Scheduler (Project)",
         location: "Home",
         description:
@@ -57,7 +91,7 @@ let timelineElements = [
         icon: "personal",
     },
     {
-        id: 6,
+        id: 5,
         title: "FaceRecognition (Project)",
         location: "Home",
         description:
@@ -68,7 +102,7 @@ let timelineElements = [
         icon: "personal",
     },
     {
-        id: 7,
+        id: 4,
         title: "Text-Expander (Project)",
         location: "Sacramento, California",
         description:
@@ -79,7 +113,7 @@ let timelineElements = [
         icon: "school",
     },
     {
-        id: 8,
+        id: 3,
         title: "CSUS - Sacramento",
         location: "Sacramento, California",
         description:
@@ -89,7 +123,7 @@ let timelineElements = [
     },
 
     {
-        id: 9,
+        id: 2,
         title: "Woodland Community College",
         location: "Woodland, California",
         description:
@@ -98,7 +132,7 @@ let timelineElements = [
         icon: "school",
     },
     {
-        id: 10,
+        id: 1,
         title: "WordPress Developer",
         location: "Davis, California",
         description:

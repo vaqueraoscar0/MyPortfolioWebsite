@@ -11,16 +11,29 @@ const ProfileDescription = 'Hello, my name is Oscar Vaquera and I recently gradu
 
 const projects = [
     {
-        title: "Space Tourism",
-        description: "Frontend Mentor Challenge (React Framer Motion)",
-        imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/FrontendMentorio-Space-Tourism/Main/src/Design/img2.png",
-        link: 'https://vaqueraoscar0.github.io/FrontendMentorio-Space-Tourism/#/destination'
+        title: "SpeakAIPro",
+        description: "AI Voice ChatBot",
+        imgUrl: "https://ecommerce-static-img.s3.us-west-1.amazonaws.com/speakaiprocover.png",
+        link: 'https://speakaipro.dev/'
+    },
+    {
+        title: "Real Estate Website",
+        description: "Location Based Real Estate Listing",
+        imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/Real-Estate-Website/Main/src/Components/assets1/img6.png",
+        link: 'https://vaqueraoscar0.github.io/Real-Estate-Website/'
     },
     {
         title: "WolleyLand Landing Page",
         description: "Design & Development (React)",
         imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/WolleyPortfolio/Main/src/img/WolleyLand.png",
         link: 'https://vaqueraoscar0.github.io/WolleyPortfolio/'
+    },
+
+    {
+        title: "Space Tourism",
+        description: "Frontend Mentor Challenge (React Framer Motion)",
+        imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/FrontendMentorio-Space-Tourism/Main/src/Design/img2.png",
+        link: 'https://vaqueraoscar0.github.io/FrontendMentorio-Space-Tourism/#/destination'
     },
 
     {
@@ -95,6 +108,12 @@ const projects = [
 ];
 
 const projects2 = [
+    {
+        title: "Real Estate Website",
+        description: "Location Based Real Estate Listing",
+        imgUrl: "https://raw.githubusercontent.com/vaqueraoscar0/Real-Estate-Website/Main/src/Components/assets1/img6.png",
+        link: 'https://vaqueraoscar0.github.io/Real-Estate-Website/'
+    },
     {
         title: "SMS For Academics",
         description: "Final School Project (no link)",
